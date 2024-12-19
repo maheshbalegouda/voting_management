@@ -33,6 +33,17 @@ This project is a web application that facilitates an online voting system. It p
 4. **Feedback & Announcements:** Voters provide feedback, and admins send announcements as needed.
 5. **Data Management:** Admins monitor and manage all user profiles, feedback, and voting data efficiently.
 
+## Screenshots
+
+### Voter Login Page
+![Voter Login Page](file-1kawb8SevhVS1UqPQvSs27)
+
+### Student Home Page
+![Student Home Page](file-TdT4ZWcfa3P6ftbuN1F8uc)
+
+### Candidate Login Page
+![Candidate Login Page](file-8o7RshhFNS7mazhWUqMS8b)
+
 ## Future Enhancements
 
 - Implement two-factor authentication for enhanced security.
