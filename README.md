@@ -36,13 +36,21 @@ This project is a web application that facilitates an online voting system. It p
 ## Screenshots
 
 ### Voter Login Page
-![Voter Login Page](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/voter_login_page.png)
 
-### Student Home Page
-![Student Home Page](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/student_home_page.png)
+
+![Uploading 1.png…]()
+![2](https://github.com/user-attachments/assets/a13b4e26-461d-4d42-ba8f-04358f92ecf5)
+
+
+### Admin Page
+![5](https://github.com/user-attachments/assets/0bf91b24-81c5-41f0-9ada-671bc307769f)
+![6](https://github.com/user-attachments/assets/67046dda-c927-468f-932e-69078af0d434)
+
 
 ### Candidate Login Page
-![Candidate Login Page](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/candidate_login_page.png)
+![3](https://github.com/user-attachments/assets/83ef90fd-a12c-4939-a16d-2bb04f371ab6)
+![4](https://github.com/user-attachments/assets/3f2437f8-d663-4ad6-b5c4-3af21590e4cb)
+
 
 ## Future Enhancements
 
