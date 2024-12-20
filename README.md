@@ -38,7 +38,8 @@ This project is a web application that facilitates an online voting system. It p
 ### Voter Login Page
 
 
-![Uploading 1.png…]()
+![1](https://github.com/user-attachments/assets/97818707-b06e-4ead-9418-d1a6d0b4855f)
+
 ![2](https://github.com/user-attachments/assets/a13b4e26-461d-4d42-ba8f-04358f92ecf5)
 
 
